@@ -1,4 +1,7 @@
-# &lt;miller-columns&gt; element
+# &lt;miller-columns&gt; element (DEPRECATED)
+
+> **NOTE**: This project is deprecated and is [planned to be migrated into Whitehall](https://gov-uk.atlassian.net/browse/WHIT-2438).
+---
 
 Express a hierarchy by showing selectable lists of the items in each hierarchy level.
 
