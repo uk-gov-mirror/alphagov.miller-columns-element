@@ -1,6 +1,6 @@
-# &lt;miller-columns&gt; element (DEPRECATED)
+# &lt;miller-columns&gt; element (RETIRED)
 
-> **NOTE**: This project is deprecated and is [planned to be migrated into Whitehall](https://gov-uk.atlassian.net/browse/WHIT-2438).
+> **NOTE**: This project is retired and [has been migrated into Whitehall](https://github.com/alphagov/whitehall/pull/10567).
 ---
 
 Express a hierarchy by showing selectable lists of the items in each hierarchy level.
